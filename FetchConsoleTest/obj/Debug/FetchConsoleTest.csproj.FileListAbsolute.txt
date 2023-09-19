@@ -1,0 +1,11 @@
+C:\Users\Servidor\source\repos\ArticPolar.Dev.FetchData\FetchConsoleTest\bin\Debug\FetchConsoleTest.exe.config
+C:\Users\Servidor\source\repos\ArticPolar.Dev.FetchData\FetchConsoleTest\bin\Debug\FetchConsoleTest.exe
+C:\Users\Servidor\source\repos\ArticPolar.Dev.FetchData\FetchConsoleTest\bin\Debug\FetchConsoleTest.pdb
+C:\Users\Servidor\source\repos\ArticPolar.Dev.FetchData\FetchConsoleTest\bin\Debug\ArticPolar.Dev.FetchData.dll
+C:\Users\Servidor\source\repos\ArticPolar.Dev.FetchData\FetchConsoleTest\bin\Debug\ArticPolar.Dev.FetchData.pdb
+C:\Users\Servidor\source\repos\ArticPolar.Dev.FetchData\FetchConsoleTest\obj\Debug\FetchConsoleTest.csproj.AssemblyReference.cache
+C:\Users\Servidor\source\repos\ArticPolar.Dev.FetchData\FetchConsoleTest\obj\Debug\FetchConsoleTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Servidor\source\repos\ArticPolar.Dev.FetchData\FetchConsoleTest\obj\Debug\FetchConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\Servidor\source\repos\ArticPolar.Dev.FetchData\FetchConsoleTest\obj\Debug\FetchConsoleTest.csproj.CopyComplete
+C:\Users\Servidor\source\repos\ArticPolar.Dev.FetchData\FetchConsoleTest\obj\Debug\FetchConsoleTest.exe
+C:\Users\Servidor\source\repos\ArticPolar.Dev.FetchData\FetchConsoleTest\obj\Debug\FetchConsoleTest.pdb

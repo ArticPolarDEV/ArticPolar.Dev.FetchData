@@ -1,0 +1,6 @@
+C:\Users\Servidor\source\repos\ArticPolar.Dev.FetchData\ArticPolar.Dev.FetchData\bin\Debug\ArticPolar.Dev.FetchData.dll
+C:\Users\Servidor\source\repos\ArticPolar.Dev.FetchData\ArticPolar.Dev.FetchData\bin\Debug\ArticPolar.Dev.FetchData.pdb
+C:\Users\Servidor\source\repos\ArticPolar.Dev.FetchData\ArticPolar.Dev.FetchData\obj\Debug\ArticPolar.Dev.FetchData.csproj.AssemblyReference.cache
+C:\Users\Servidor\source\repos\ArticPolar.Dev.FetchData\ArticPolar.Dev.FetchData\obj\Debug\ArticPolar.Dev.FetchData.csproj.CoreCompileInputs.cache
+C:\Users\Servidor\source\repos\ArticPolar.Dev.FetchData\ArticPolar.Dev.FetchData\obj\Debug\ArticPolar.Dev.FetchData.dll
+C:\Users\Servidor\source\repos\ArticPolar.Dev.FetchData\ArticPolar.Dev.FetchData\obj\Debug\ArticPolar.Dev.FetchData.pdb

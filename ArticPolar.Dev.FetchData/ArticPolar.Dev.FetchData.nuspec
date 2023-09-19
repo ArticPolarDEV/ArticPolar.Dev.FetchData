@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>ArticPolar.Dev.FetchData</id>
+    <version>1.0</version>
+    <title>ArticPolar.Dev.FetchData</title>
+    <authors>ArticPolarDEV</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/ArticPolarDEV/ArticPolar.Dev.FetchData/</projectUrl>
+    <description>Fetch Data from API (Or Other) Using TWO Methods: GET and POST</description>
+    <releaseNotes>First Version</releaseNotes>
+    <copyright>Copyright © ArticPolar 2023</copyright>
+    <tags>web response http request httprequest get post win32</tags>
+  </metadata>
+</package>
